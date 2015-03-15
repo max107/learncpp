@@ -1,0 +1,6 @@
+*.o
+fastcraft
+Makefile1
+demo
+.project
+.settings
